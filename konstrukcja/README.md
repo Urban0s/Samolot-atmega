@@ -29,7 +29,7 @@ Folia termokurczliwa
 ## 5. Rozklejacz
 Rozklejacz Debonder do kleju cyjanoakrylowego
 
-<img src="rozklejacz.png" width="450">
+<img src="rozlepiacz.png" width="450">
 
 ---
 
