@@ -188,15 +188,16 @@ Plik nagłówkowy odpowiedzialny za konfigurację interfejsu szeregowego UART. D
 <summary>👁️ Kliknij, aby zobaczyć kod uart.h</summary>
 
 ```c
-#ifndef UART_H_
-#define UART_H_
+#ifndef UART_H
+#define UART_H
 
-#define BAUDRATE 9600
-#define MYUBRR (((F_CPU / (BAUDRATE * 16UL))) - 1)
+#include <stdint.h>
+
+// Udostępniamy zmienne dla innych plików
+extern volatile uint16_t rc_channels[14];
+extern volatile uint8_t frame_ready;
 
 void uart_init(void);
-void uart_putc(char data);
-void uart_puts(const char* s);
 
 #endif
 ```
