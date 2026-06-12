@@ -28,8 +28,3 @@ Moduł Nano V3 CH340 ATMEGA328P 16MHz
 </div>
 ---
 
-# Schemat elektryczny
-<div>
-<img src="schemat_elektr.png" width="450">
-</div>
-
