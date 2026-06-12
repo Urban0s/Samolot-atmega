@@ -1,23 +1,25 @@
 # Lista elementów konstrukcji
 
 ## 1. Rurka węglowa
+**Przekroje:** |8/6| |5/3,5| oraz jedna |14/10|
 
-PRZEKROJE: |8/6|   |5/3,5|  i jedna |14/10|
-![Rurka węglowa](rurka_weglowa.png)
+<img src="rurka_weglowa.png" width="450">
 
 ---
 
 ## 2. Pręt węglowy
-![Pręt węglowy](pret_weglowy.png)
+<img src="pret_weglowy.png" width="450">
 
 ---
 
 ## 3. Materiał
 Styrodur
-![materiał](material.png)
+
+<img src="material.png" width="450">
 
 ---
 
 ## 4. Obudowa
 Folia termokurczliwa
-![obudowa](obudowa.png)
+
+<img src="obudowa.png" width="450">
