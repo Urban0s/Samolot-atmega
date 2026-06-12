@@ -1,6 +1,6 @@
 # 💻 Oprogramowanie ATmega328P (Sterownik Samolotu)
 
-Ten folder zawiera pełny kod źródłowy napisany w języku C dla mikrokontrolera ATmega328P. Każdy plik został opisany i wydzielony osobno, co ułatwia przeglądanie struktury projektu.
+Ten folder zawiera pełny kod źródłowy napisany dla mikrokontrolera ATmega328P.
 
 ---
 
