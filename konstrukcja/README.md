@@ -23,3 +23,17 @@ Styrodur
 Folia termokurczliwa
 
 <img src="obudowa.png" width="450">
+
+---
+
+## 5. Rozklejacz
+Rozklejacz Debonder do kleju cyjanoakrylowego
+
+<img src="rozklejacz.png" width="450">
+
+---
+
+## 5. Klej
+Kleje cyjanoakrylowe: gęsty, średki, rzadki
+
+<img src="kleje.png" width="450">
