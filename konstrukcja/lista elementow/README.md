@@ -20,7 +20,7 @@ Styrodur
 ---
 
 ## 4. Obudowa
-Folia termokurczliwa
+Folia Oracover Orastick
 
 <img src="obudowa.png" width="450">
 
