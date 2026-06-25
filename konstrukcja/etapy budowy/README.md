@@ -24,6 +24,5 @@
   <img src="Budowa 6.jpg" width="450">
 </div>
 
-<div>
-  <video src="smiglo.mp4" width="60%" controls muted></video>
-</div>
+<video src="smiglo.mp4" width="60%" controls muted></video>
+
