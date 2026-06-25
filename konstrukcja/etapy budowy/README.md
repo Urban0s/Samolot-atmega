@@ -1,7 +1,7 @@
 # 🛠️ Etapy budowy
 
 <div>
-  <img src="Budowa 1.jpg" width="400">
+  <img src="Budowa 1.jpg" width="450">
 </div>
 
 <div>
