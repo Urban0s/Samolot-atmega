@@ -1,27 +1,27 @@
 # 🛠️ Etapy budowy
 
 <div>
-  <img src="Budowa 1.jpg" width="500">
+  <img src="Budowa 1.jpg" width="450">
 </div>
 
 <div>
-  <img src="Budowa 2.jpg" width="500">
+  <img src="Budowa 2.jpg" width="450">
 </div>
 
 <div>
-  <img src="Budowa 3.jpg" width="500">
+  <img src="Budowa 3.jpg" width="450">
 </div>
 
 <div>
-  <img src="Budowa 4.png" width="500">
+  <img src="Budowa 4.png" width="450">
 </div>
 
 <div>
-  <img src="Budowa 5.png" width="500">
+  <img src="Budowa 5.png" width="450">
 </div>
 
 <div>
-  <img src="Budowa 6.jpg" width="500">
+  <img src="Budowa 6.jpg" width="450">
 </div>
 
 <div>
