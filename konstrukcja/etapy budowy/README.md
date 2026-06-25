@@ -26,4 +26,4 @@
   <img src="Budowa 6.png" width="450">
 </div>
 
-
+ 
