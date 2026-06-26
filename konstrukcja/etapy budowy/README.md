@@ -26,4 +26,10 @@
   <img src="Budowa 6.png" width="450">
 </div>
 
- 
+<div>
+  <img src="Budowa 7.jpg" width="450">
+</div> 
+
+<div>
+  <img src="Budowa 8.jpg" width="450">
+</div>
