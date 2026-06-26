@@ -25,3 +25,8 @@
 <img src="skrzydla-gora.png" width="450">
 </div>
 ---
+
+## 5. Projekt żebra
+<div>
+<img src="zebro.png" width="450">
+</div>
