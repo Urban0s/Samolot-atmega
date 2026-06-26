@@ -33,3 +33,7 @@
 <div>
   <img src="Budowa 8.jpg" width="450">
 </div>
+
+<div>
+  <img src="Budowa 9.jpg" width="450">
+</div>
