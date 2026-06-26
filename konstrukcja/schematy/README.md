@@ -17,3 +17,15 @@
 <img src="projekt_cad.png" width="450">
 </div>
 ---
+
+## 4. Projekt skrzydeł
+<div>
+<img src="skrzydla.png" width="450">
+</div>
+---
+
+## 5. Projekt skrzydeł - widok z góry
+<div>
+<img src="skrzydla-gora.png" width="450">
+</div>
+---
