@@ -1,5 +1,3 @@
-
-
 ## 1. Anatomia samolotu
 <div>
 <img src="anatomia_samolotu.png" width="450">
